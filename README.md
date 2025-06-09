@@ -1,5 +1,3 @@
-<img src="https://i.postimg.cc/3RZVNs8q/1632265093435.jpg" >
-
 #  <p align="center">Hey! 👋 I'm Igal Mekonen</p>
 ## <p align="center">Mobile Software Engineer | Cross-Platform App Developer | Cloud & IoT Enthusiast</p>
 
