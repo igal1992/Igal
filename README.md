@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/SNpRHHqz/image.png" />
+<img src="https://i.postimg.cc/N0hrfLvp/Chat-GPT-Image-Jun-9-2025-06-17-15-PM.png" />
 
 #  <p align="center">Hey! 👋 I'm Igal Mekonen</p>
 ## <p align="center">Mobile Software Engineer | Cross-Platform App Developer | Cloud & IoT Enthusiast</p>
