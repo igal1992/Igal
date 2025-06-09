@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/W3GTFhGn/coding-languages-in-the-background-and-the-name-Igal-Mekonen-in-the-center.jpg" />
+<img src="https://i.postimg.cc/7PRmGmLK/coding-languages-in-the-background-and-the-name-Igal-Mekonen-in-the-center.jpg" />
 
 #  <p align="center">Hey! 👋 I'm Igal Mekonen</p>
 ## <p align="center">Mobile Software Engineer | Cross-Platform App Developer | Cloud & IoT Enthusiast</p>
