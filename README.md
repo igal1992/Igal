@@ -1,85 +1,72 @@
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1350&q=80" width="100%" alt="Tech Banner"/>
+<img src="https://i.postimg.cc/3RZVNs8q/1632265093435.jpg" >
 
-# 👋 Hi, I'm Igal Mekonen
-### Mobile Software Engineer | Cross-Platform App Developer | Cloud & IoT Enthusiast
+#  <p align="center">Hey! 👋 I'm Igal Mekonen</p>
+## <p align="center">Mobile Software Engineer | Cross-Platform App Developer | Cloud & IoT Enthusiast</p>
 
----
-
-🎯 Passionate about building seamless mobile experiences that scale.  
-📱 3+ years crafting apps for Android & iOS, integrating real-time, cloud-based, and AI-powered features.  
-🔧 Focused on performance, architecture (MVVM), and developer mentorship.  
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igal-mekonen/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:igal14733@gmail.com)
-[![Google Play](https://img.shields.io/badge/-MyMovie_App-34A853?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.black_eagle.mymovie&hl=en)
+### You can always find me here  
+[![LinkedIn](https://github.com/StavRabinovich/StavRabinovich/blob/main/icons/linkedin32.png)](https://www.linkedin.com/in/igal-mekonen/) &nbsp;
+[![Email](https://github.com/StavRabinovich/StavRabinovich/blob/main/icons/gmail32.png)](mailto:igal14733@gmail.com) &nbsp;
+[![PlayStore](https://img.shields.io/badge/Google_Play-MyMovie_App-blue?logo=google-play)](https://play.google.com/store/apps/details?id=com.black_eagle.mymovie&hl=en)
 
 ---
 
-## 🛠️ Skills Snapshot
+## 💼 About Me
 
-**Languages**  
-`Java` · `Kotlin` · `Swift` · `Python` · `TypeScript` · `JavaScript`
+I'm a **Mobile Software Engineer** with 3+ years of experience in cross-platform development (Android/iOS). I specialize in building scalable, performant, and user-focused mobile applications. I've led architecture and feature delivery for the ReefBeat platform, and recently developed *MyMovie*, a real-time, AI-powered movie app. I thrive on clean architecture (MVVM), CI/CD workflows, and seamless cloud integration.
 
-**Frontend & UI**  
-`Jetpack Compose` · `SwiftUI / Storyboards` · `React`
+---
 
-**Backend & Databases**  
-`Firebase Firestore` · `Realm` · `Room DB` · `SugarCRM`
+## 🚀 Skills & Technologies
 
-**Cloud, APIs & DevOps**  
-`OpenAI APIs` · `Retrofit` · `Swagger` · `Docker` · `CI/CD Pipelines` · `Jira` · `Git`
+| | |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Frontend** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
+| **Backend & DBs** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Room](https://img.shields.io/badge/Room-4CAF50?style=flat&logo=android&logoColor=white) ![SugarCRM](https://img.shields.io/badge/SugarCRM-E6162D?style=flat&logo=sugarcrm&logoColor=white) |
+| **Cloud & APIs** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-0086FF?style=flat&logo=android&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=flat&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white) |
 
 ---
 
 ## 📱 Projects
 
-### 🎬 MyMovie App
-An AI-driven social movie discovery app
+### 💬 MyMovie App (2024 – 2025)
+A real-time mobile platform for exploring movies, chatting, and sharing experiences.
 
-- Built UI using **Jetpack Compose** — reduced load time by 40%
-- Integrated **Firebase Firestore** for real-time features and personalized content
-- Developed **E2E encrypted messaging** with Firebase Cloud Messaging
-- Implemented **deep linking** and dynamic content sharing
-- Optimized startup by 50% via smarter background tasks and dependency handling
+- 🔹 Built UI with Jetpack Compose – improved responsiveness by 40%
+- 🔹 Integrated Firebase Firestore for real-time updates
+- 🔹 AI-powered content recommendations
+- 🔹 Implemented E2E encrypted messaging with Firebase Messaging
+- 🔹 Seamless deep linking & dynamic sharing
+- 🔹 Startup time reduced by 50% using WorkManager & dependency refinement
 
-📱 [View on Play Store](https://play.google.com/store/apps/details?id=com.black_eagle.mymovie&hl=en)
+### 🐠 ReefBeat Platform (2022 – Present)
+Leading mobile dev efforts for Triosoft's IoT-connected aquarium control system.
 
----
-
-### 🐠 ReefBeat (Triosoft)
-IoT-based mobile app for managing reef ecosystems
-
-- Led cross-platform development (Android/iOS)
-- Designed and implemented scalable **MVVM architecture**
-- Reduced UI crashes by 40%, improved device connectivity by 30%
-- Oversaw **CI/CD pipelines**, optimized performance and memory usage
-- Mentored junior devs, created onboarding docs, and streamlined code reviews
+- 📱 Cross-platform development for Android (Jetpack XML) and iOS (Storyboards)
+- 📈 Reduced crashes by 40%, improved connectivity by 30%
+- ⚙️ Own MVVM architecture, CI/CD automation, app store deployment
+- 💬 Mentored team, led code reviews, authored onboarding docs
+- ☁️ Integrated cloud & IoT APIs for seamless device control
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. Computer Science**  
+**B.Sc. in Computer Science**  
 Ashkelon Academic College | 2018 – 2021
 
 ---
 
-## 🤝 Volunteering
+## 🌱 Volunteering
 
-**Perach Mentorship Program**  
-Provided academic and emotional support to underprivileged children.
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=igal14733&layout=compact&theme=dracula)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igal14733&show_icons=true&theme=dracula)
+**Perach – Child Guidance Program**  
+Provided academic and personal mentoring to underprivileged children.
 
 ---
 
-_“Striving for clean code, clean UI, and meaningful impact — one commit at a time.”_
+## 📊 GitHub Stats  
+![GitProfile-Stats](https://github-readme-stats.vercel.app/api/top-langs?username=igal14733&show_icons=true&theme=radical)  
+![GitProfile-Stats](https://github-readme-stats.vercel.app/api?username=igal14733&show_icons=true&theme=radical)
+
+![snake gif](https://github.com/JustMax7CB/JustMax7CB/blob/output/github-contribution-grid-snake.svg)
