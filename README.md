@@ -62,9 +62,3 @@ Ashkelon Academic College | 2018 – 2021
 Provided academic and personal mentoring to underprivileged children.
 
 ---
-
-## 📊 GitHub Stats  
-![GitProfile-Stats](https://github-readme-stats.vercel.app/api/top-langs?username=igal14733&show_icons=true&theme=radical)  
-![GitProfile-Stats](https://github-readme-stats.vercel.app/api?username=igal14733&show_icons=true&theme=radical)
-
-![snake gif](https://github.com/JustMax7CB/JustMax7CB/blob/output/github-contribution-grid-snake.svg)
