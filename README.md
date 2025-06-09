@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Nh8e71M.png" width="100%" alt="Banner"/>
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1350&q=80" width="100%" alt="Tech Banner"/>
 
 # 👋 Hi, I'm Igal Mekonen
 ### Mobile Software Engineer | Cross-Platform App Developer | Cloud & IoT Enthusiast
